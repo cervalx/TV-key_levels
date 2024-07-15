@@ -13,7 +13,7 @@ levels_SPX = map.new<float, string>()
 
 // Add levels and comments for QQQ
 levels_QQQ.put(503,'' )
-levels_QQQ.put(500 MAX,'' )
+levels_QQQ.put(500 ,'MAX' )
 levels_QQQ.put(497.6,'strong level' )
 levels_QQQ.put(498,'strong level' )
 levels_QQQ.put(497 ,'' )
