@@ -12,7 +12,20 @@ levels_QQQ = map.new<float, string>()
 levels_SPX = map.new<float, string>()
 
 // Add levels and comments for QQQ
-
+levels_QQQ.put(504,'' )
+levels_QQQ.put(503.5,'ATH level. Strong resistance there.' )
+levels_QQQ.put(500.8,'max' )
+levels_QQQ.put(501,'max' )
+levels_QQQ.put(500,'' )
+levels_QQQ.put(497.5,'key level' )
+levels_QQQ.put(496.8,'' )
+levels_QQQ.put(495,'' )
+levels_QQQ.put(493.5,'strong level from multiple moving averages. Will be hard to break.' )
+levels_QQQ.put(493.78,'strong level from multiple moving averages. Will be hard to break.' )
+levels_QQQ.put(492,'quants min' )
+levels_QQQ.put(490.5 ,'' )
+levels_QQQ.put(490,'' )
+levels_QQQ.put(488,'' )
 // Add levels and comments for SPX
 levels_SPX.put(5695,'key level. Strong. It is becoming more magnetic, we see as open interest here increases. can see it achieved soon.' )
 levels_SPX.put(5700,'key level. Strong. It is becoming more magnetic, we see as open interest here increases. can see it achieved soon.' )
