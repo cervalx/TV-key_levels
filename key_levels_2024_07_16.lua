@@ -12,7 +12,7 @@ levels_QQQ = map.new<float, string>()
 levels_SPX = map.new<float, string>()
 
 // Add levels and comments for QQQ
-levels_QQQ.put(,'' )
+
 // Add levels and comments for SPX
 levels_SPX.put(5695,'key level. Strong. It is becoming more magnetic, we see as open interest here increases. can see it achieved soon.' )
 levels_SPX.put(5700,'key level. Strong. It is becoming more magnetic, we see as open interest here increases. can see it achieved soon.' )
