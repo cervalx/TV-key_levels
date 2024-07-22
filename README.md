@@ -11,8 +11,9 @@ In order to process the post lines I use two tools:
 1. https://capitalizemytitle.com/tools/column-to-comma-separated-list/
 With the following settings
 <img width="307" alt="Screenshot 2024-07-16 at 15 12 31" src="https://github.com/user-attachments/assets/7cd128b9-f3c2-4da7-ace8-74f4f48b1d2e">
+
 That generates a string array example:
-'''
+```python
 '5695-5700 - key level. Strong. It is becoming more magnetic, we see as open interest here increases. can see it achieved soon.;5675;5667 - quants max. I think there is risk of this breaking today, so size smaller, but let’s see. ;5650;5640;5625;5615 - stronger supp;5609;5596-5600 - quants min;5590 ;5581;5570-5575'
-'''
+```
 3. I process the array using a custom Python script in a online Jupyter notebook (on (https://colab.research.google.com): Tear_Levels.ipynb
