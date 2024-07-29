@@ -2,7 +2,7 @@
 // © cervalx
 
 //@version=5
-indicator("key levels 2024 07 22", overlay = true)
+indicator("key levels 2024 07 29", overlay = true)
 
 line_color = input.color(color.blue)
 label_color = input.color(color.blue)
